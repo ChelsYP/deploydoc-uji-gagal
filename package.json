@@ -1,0 +1,7 @@
+{
+  "name": "uji-gagal",
+  "version": "1.0.0",
+  "dependencies": {
+    "paket-yang-tidak-ada-xyz-12345": "^1.0.0"
+  }
+}
